@@ -241,4 +241,5 @@ section {
 }
 
 .footer .share img:hover {
-    background-color: var(--main-color) ;
+    background-color: var(--main-color);
+}
